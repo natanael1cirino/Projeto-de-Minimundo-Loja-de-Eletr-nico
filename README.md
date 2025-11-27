@@ -91,7 +91,7 @@ Para executar o projeto em um ambiente MySQL:
 - Git e GitHub para versionamento  
 - Linguagem SQL (DDL, DML e DQL)
 
-  6. Conclusão
+## 6. Conclusão
 
 Este repositório apresenta a implementação prática do banco de dados da Loja de Eletrônicos, demonstrando:
 Criação estruturada do esquema de dados.
