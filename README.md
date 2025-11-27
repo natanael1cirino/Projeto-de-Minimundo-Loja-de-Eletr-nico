@@ -31,7 +31,7 @@ O banco de dados modelado possui as seguintes entidades principais:
 
 Os relacionamentos foram implementados conforme o DER, incluindo chaves primárias, chaves estrangeiras e cardinalidades 1:N e 1:1 conforme necessário.
 ### Diagrama Entidade-Relacionamento (DER)
-![Diagrama Entidade Relacionamento](caminho/para/sua/imagem.png)
+![Diagrama Entidade Relacionamento](https://github.com/natanael1cirino/Projeto-de-Minimundo-Loja-de-Eletr-nico/blob/main/loja_eletronica.png)
 
 
 ## 3. Arquivos Disponíveis no Repositório
