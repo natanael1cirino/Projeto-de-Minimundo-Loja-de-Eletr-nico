@@ -30,7 +30,8 @@ O banco de dados modelado possui as seguintes entidades principais:
 - Compra_Estoque  
 
 Os relacionamentos foram implementados conforme o DER, incluindo chaves primárias, chaves estrangeiras e cardinalidades 1:N e 1:1 conforme necessário.
-
+### Diagrama Entidade-Relacionamento (DER)
+![Diagrama Entidade Relacionamento](caminho/para/sua/imagem.png)
 
 
 ## 3. Arquivos Disponíveis no Repositório
