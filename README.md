@@ -71,13 +71,16 @@ Para executar o projeto em um ambiente MySQL:
    ```sql
    SOURCE 00_create_tables.sql;
 
-2. Executar o script de inserção dos dados iniciais: 
+2. Executar o script de inserção dos dados iniciais:
+3. ```sql
    SOURCE 01_inserts_iniciais.sql;
 
-3. Rodar o arquivo de consultas:
+4. Rodar o arquivo de consultas:
+5. ```sql
    SOURCE 02_consultas_select.sql;
 
-4. Testar comandos de atualização e exclusão:
+6. Testar comandos de atualização e exclusão:
+7. ```sql
    SOURCE 03_updates_deletes.sql;
 
 ## 5. Ferramentas Utilizadas
